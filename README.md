@@ -10,6 +10,7 @@
 - Final results passed into Tableau for visualization
 #### Final_ResultsV2.png
 - Final dashboard on Tableau
+
 Sometime between 2021 and 2023, I learned about .gitignore, and this allowed me to create a binning function that was external to the files on git, and store my banking and censoring locally as well. The categories and scale are notably different, because as I mature, my priorities and responsibilities change, including managing rent and utilities, my own office space, and purchasing groceries.
 ### 2021
 [Tableau](https://public.tableau.com/app/profile/victor.chen1615/viz/18-monthSpendingAnalysis/SpendingbyCategory?publish=yes) for the visualization.
